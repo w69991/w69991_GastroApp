@@ -1,0 +1,305 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GastroApp – Demo UI</title>
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        body { padding-top: 4rem; }
+        .card:hover { box-shadow: 0 0 1rem rgba(0,0,0,.15); transform: translateY(-2px); transition: .2s; }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">GastroApp</a>
+
+
+        <span class="badge bg-warning me-3 d-none" id="loyalty-badge"></span>
+
+        <!-- miejsce na Login / Logout -->
+        <div class="ms-auto" id="auth-area"></div>
+    </div>
+</nav>
+
+<div class="container" id="app">
+    <h1 class="mb-4">Menu</h1>
+    <div id="menu" class="row g-4"></div>
+
+    <h2 class="mt-5">Your Order</h2>
+    <ul id="order-list" class="list-group mb-3"></ul>
+    <div class="form-check mb-2">
+        <input class="form-check-input" type="checkbox" id="usePoints">
+        <label class="form-check-label" for="usePoints">
+            Use 100&nbsp;pts for&nbsp;10&nbsp;zł discount
+        </label>
+    </div>
+    <button id="place-order" class="btn btn-success" disabled>Place Order</button>
+    
+
+    <h2 class="mt-5">My Orders</h2>
+    <div id="orders" class="accordion accordion-flush"></div>
+</div>
+
+<!-- Registration Modal -->
+<div class="modal fade" id="registerModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header"><h5 class="modal-title">Register</h5></div>
+            <div class="modal-body">
+                <form id="register-form">
+                    <div class="mb-2"><input class="form-control" placeholder="First Name" name="firstName" required></div>
+                    <div class="mb-2"><input class="form-control" placeholder="Last Name" name="lastName" required></div>
+                    <div class="mb-2"><input class="form-control" type="email" placeholder="Email" name="email" required></div>
+                    <div class="mb-2"><input class="form-control" type="password" placeholder="Password" name="password" required></div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="register-btn">Register</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Login Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header"><h5 class="modal-title">Login</h5></div>
+            <div class="modal-body">
+                <form id="login-form">
+                    <div class="mb-2"><input class="form-control" type="email" placeholder="Email" name="email" required></div>
+                    <div class="mb-2"><input class="form-control" type="password" placeholder="Password" name="password" required></div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="login-btn">Login</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const apiBase = "/api";
+    const menuDiv = document.getElementById("menu");
+    const orderList = document.getElementById("order-list");
+    const placeOrderBtn = document.getElementById("place-order");
+    const authArea = document.getElementById("auth-area");
+    const ordersDiv    = document.getElementById("orders"); 
+    const loyaltyBadge = document.getElementById("loyalty-badge");
+    const usePointsChk = document.getElementById("usePoints");
+    const order = [];
+    let currentCustomer = null;
+
+    init();
+
+    function init() {
+        currentCustomer = JSON.parse(localStorage.getItem("customer"));
+        updateAuthUI();
+        fetchMenu();
+    }
+
+    function updateAuthUI() {
+        authArea.innerHTML = "";
+        if (currentCustomer) {
+            authArea.innerHTML =
+                `<span class="text-white me-3">Hello, ${currentCustomer.firstName}</span>
+       <button class="btn btn-sm btn-outline-light" id="logout-btn">Logout</button>`;
+
+            if (currentCustomer.loyaltyPoints !== undefined) {
+                loyaltyBadge.textContent = `★ ${currentCustomer.loyaltyPoints} pts`;
+                loyaltyBadge.classList.remove("d-none");
+                usePointsChk.disabled = !currentCustomer || currentCustomer.loyaltyPoints < 100;
+            }
+
+            document.getElementById("logout-btn").addEventListener("click", () => {
+                localStorage.removeItem("customer");
+                currentCustomer = null;
+                updateAuthUI();
+                ordersDiv.innerHTML = "";
+                renderOrder();
+            });
+        } else {
+            authArea.innerHTML =
+                `<button class="btn btn-sm btn-light me-2" data-bs-toggle="modal" data-bs-target="#loginModal">Login</button>
+       <button class="btn btn-sm btn-warning" data-bs-toggle="modal" data-bs-target="#registerModal">Register</button>`;
+        }
+
+    }
+    //Menu
+    function fetchMenu() {
+        fetch(`${apiBase}/menu`).then(r => r.json()).then(renderMenu);
+    }
+
+    function renderMenu(items) {
+        menuDiv.innerHTML = "";
+        items.forEach(item => {
+            const col = document.createElement("div");
+            col.className = "col-sm-6 col-md-4 col-lg-3";
+            col.innerHTML = `
+        <div class="card h-100">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">${item.name}</h5>
+            <p class="card-text small flex-grow-1">${item.description || "&nbsp;"}</p>
+            <p class="fw-bold mb-3">${item.price.toFixed(2)} zł</p>
+            <button class="btn btn-primary w-100 mt-auto" data-id="${item.id}">Add</button>
+          </div>
+        </div>`;
+            menuDiv.appendChild(col);
+            col.querySelector("button").addEventListener("click", () => addToOrder(item));
+        });
+    }
+    //Orders
+    function addToOrder(item) {
+        const existing = order.find(x => x.id === item.id);
+        if (existing) existing.qty++; else order.push({ ...item, qty: 1 });
+        renderOrder();
+    }
+    
+    function renderOrder() {
+        orderList.innerHTML = "";
+        let total = 0;
+        order.forEach(li => {
+            total += li.qty * li.price;
+            const row = document.createElement("li");
+            row.className = "list-group-item d-flex justify-content-between align-items-center";
+            row.textContent = `${li.name} × ${li.qty}`;
+            const priceSpan = document.createElement("span");
+            priceSpan.className = "badge bg-secondary";
+            priceSpan.textContent = (li.qty * li.price).toFixed(2) + " zł";
+            row.appendChild(priceSpan);
+            orderList.appendChild(row);
+        });
+        placeOrderBtn.disabled = order.length === 0 || !currentCustomer;
+        placeOrderBtn.textContent = currentCustomer ? `Place Order (${total.toFixed(2)} zł)` : "Login to order";
+    }
+
+    // Registration
+    fetch(`${apiBase}/customers/register`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(dto)
+    })
+        .then(r => {
+   
+            if (r.status === 409)
+                throw new Error("This e-mail is already registered.");
+            if (!r.ok) 
+                throw new Error("Registration failed");
+            
+            return r.headers.get("Location").split("/").pop();
+        })
+        .then(id => {
+            
+            currentCustomer = { id, firstName: dto.firstName, loyaltyPoints: 0 };
+            localStorage.setItem("customer", JSON.stringify(currentCustomer));
+            bootstrap.Modal.getInstance(document.getElementById("registerModal")).hide();
+            updateAuthUI();
+            renderOrder();
+            alert("Registered successfully!");
+        })
+        .catch(err => alert(err.message));
+
+    
+    // Login
+    document.getElementById("login-btn").addEventListener("click", () => {
+        const fd  = new FormData(document.getElementById("login-form"));
+        const dto = Object.fromEntries(fd.entries());
+
+        fetch(`${apiBase}/customers/login`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(dto)
+        })
+            .then(r => { if (r.status === 401) throw new Error("Invalid credentials"); return r.json(); })
+            .then(data => {
+                currentCustomer = data;                                   // { id, firstName, loyaltyPoints, ... }
+                localStorage.setItem("customer", JSON.stringify(currentCustomer));
+                bootstrap.Modal.getInstance(document.getElementById("loginModal")).hide();
+                updateAuthUI();
+                renderOrder();
+                fetchOrders();
+            })
+            .catch(err => alert(err.message));
+    });
+
+    //Historia zamowien
+    function fetchOrders() {
+        if (!currentCustomer) { ordersDiv.innerHTML = ""; return; }
+        fetch(`${apiBase}/orders/byCustomer/${currentCustomer.id}`)
+            .then(r => r.json())
+            .then(renderOrders);
+    }
+
+    function renderOrders(list) {
+        ordersDiv.innerHTML = "";
+        if (list.length === 0) {
+            ordersDiv.innerHTML = "<p class='text-muted'>No orders yet.</p>";
+            return;
+        }
+        list.forEach((o, idx) => {
+            ordersDiv.insertAdjacentHTML("beforeend", `
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="h${idx}">
+            <button class="accordion-button collapsed" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#c${idx}">
+              ${new Date(o.orderDate).toLocaleString()} · ${o.totalAmount.toFixed(2)} zł · ${o.status}
+            </button>
+          </h2>
+          <div id="c${idx}" class="accordion-collapse collapse" data-bs-parent="#orders">
+            <div class="accordion-body">
+              <ul class="list-group">
+                ${o.items.map(it => `
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    ${it.name} × ${it.quantity}
+                    <span class="badge bg-secondary">
+                      ${(it.quantity * it.unitPrice).toFixed(2)} zł
+                    </span>
+                  </li>`).join("")}
+              </ul>
+            </div>
+          </div>
+        </div>`);
+        });
+    }
+
+    //Place Order
+    placeOrderBtn.addEventListener("click", () => {
+        if (!currentCustomer) return;
+        const items = order.map(i => ({ menuItemId: i.id, quantity: i.qty }));
+
+        fetch(`${apiBase}/orders`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                customerId: currentCustomer.id,
+                items,
+                discountCode: null,
+                useLoyaltyPoints: usePointsChk.checked  
+            })
+        })
+            .then(r => { if (!r.ok) throw new Error("Order failed"); })
+            .then(() => {
+                alert("Order placed successfully!");
+                order.length = 0;
+                renderOrder();
+                
+                if (usePointsChk.checked && currentCustomer.loyaltyPoints >= 100)
+                    currentCustomer.loyaltyPoints -= 100;
+                currentCustomer.loyaltyPoints += 10;
+
+                localStorage.setItem("customer", JSON.stringify(currentCustomer));
+                updateAuthUI();
+                fetchOrders();
+                usePointsChk.checked = false; 
+            })
+            .catch(err => alert(err.message));
+    });
+</script>
+</body>
+</html>

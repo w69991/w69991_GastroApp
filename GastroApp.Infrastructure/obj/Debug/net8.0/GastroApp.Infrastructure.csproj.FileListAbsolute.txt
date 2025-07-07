@@ -1,0 +1,38 @@
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.deps.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.runtimeconfig.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.AssemblyInfo.cs
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroAp.853C9E19.Up2Date
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\refint\GastroApp.Infrastructure.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.genruntimeconfig.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\ref\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.deps.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.runtimeconfig.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroAp.853C9E19.Up2Date
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\refint\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\ref\GastroApp.Infrastructure.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XeStLQ6pMwJaqbjEVoBpFOcxJ20wgtB6ArCxQMEE5uw=",
+  "Source": "GastroApp.WebApi",
+  "BasePath": "_content/GastroApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GastroApp.WebApi\\wwwroot",
+      "Source": "GastroApp.WebApi",
+      "ContentRoot": "C:\\Users\\Adam Orłowski\\Desktop\\w69991_GastroApp\\GastroApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/GastroApp.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Adam Orłowski\\Desktop\\w69991_GastroApp\\GastroApp.WebApi\\wwwroot\\Index.html",
+      "SourceId": "GastroApp.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Adam Orłowski\\Desktop\\w69991_GastroApp\\GastroApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/GastroApp.WebApi",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

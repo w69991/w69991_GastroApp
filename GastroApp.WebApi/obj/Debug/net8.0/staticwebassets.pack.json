@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Adam Orłowski\\Desktop\\w69991_GastroApp\\GastroApp.WebApi\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GastroApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GastroApp.WebApi.props",
+      "PackagePath": "build\\GastroApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GastroApp.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\GastroApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GastroApp.WebApi.props",
+      "PackagePath": "buildTransitive\\GastroApp.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

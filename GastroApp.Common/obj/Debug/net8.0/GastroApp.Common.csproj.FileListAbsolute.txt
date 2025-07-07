@@ -1,0 +1,22 @@
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.deps.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.AssemblyInfoInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.AssemblyInfo.cs
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\refint\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\ref\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.deps.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.AssemblyInfoInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.AssemblyInfo.cs
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\refint\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\ref\GastroApp.Common.dll

@@ -1,0 +1,30 @@
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.deps.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.csproj.AssemblyReference.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.AssemblyInfoInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.AssemblyInfo.cs
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroAp.792A7E07.Up2Date
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\refint\GastroApp.Domain.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\ref\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.deps.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.AssemblyInfo.cs
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroAp.792A7E07.Up2Date
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\refint\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\ref\GastroApp.Domain.dll

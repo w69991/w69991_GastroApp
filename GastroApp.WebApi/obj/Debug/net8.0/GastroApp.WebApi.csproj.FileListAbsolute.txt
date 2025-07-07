@@ -1,0 +1,414 @@
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.exe
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.deps.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.runtimeconfig.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Application.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Application.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.csproj.AssemblyReference.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.AssemblyInfoInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.AssemblyInfo.cs
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.GastroApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.GastroApp.WebApi.props
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GastroApp.WebApi.props
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GastroApp.WebApi.props
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\GastroApp.WebApi.styles.css
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroAp.2B09EE7F.Up2Date
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\refint\GastroApp.WebApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.pdb
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.genruntimeconfig.cache
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\ref\GastroApp.WebApi.dll
+C:\Projects\Projekt\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.staticwebassets.runtime.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.staticwebassets.runtime.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.exe
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.deps.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.runtimeconfig.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.WebApi.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Application.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Application.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Domain.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Infrastructure.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\bin\Debug\net8.0\GastroApp.Common.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.AssemblyInfo.cs
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.GastroApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.GastroApp.WebApi.props
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GastroApp.WebApi.props
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GastroApp.WebApi.props
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\GastroApp.WebApi.styles.css
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroAp.2B09EE7F.Up2Date
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\refint\GastroApp.WebApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.pdb
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.genruntimeconfig.cache
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\ref\GastroApp.WebApi.dll

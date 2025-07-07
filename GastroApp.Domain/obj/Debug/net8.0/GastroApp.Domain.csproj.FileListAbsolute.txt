@@ -28,3 +28,4 @@ C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\refint\GastroApp.Domain.dll
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.pdb
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\ref\GastroApp.Domain.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Domain\obj\Debug\net8.0\GastroApp.Domain.sourcelink.json

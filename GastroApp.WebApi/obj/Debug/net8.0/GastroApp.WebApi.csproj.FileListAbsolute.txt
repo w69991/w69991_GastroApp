@@ -412,3 +412,4 @@ C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.pdb
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.genruntimeconfig.cache
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\ref\GastroApp.WebApi.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.WebApi\obj\Debug\net8.0\GastroApp.WebApi.sourcelink.json

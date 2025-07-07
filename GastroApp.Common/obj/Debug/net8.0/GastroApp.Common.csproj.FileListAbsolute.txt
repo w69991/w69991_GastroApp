@@ -20,3 +20,4 @@ C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\refint\GastroApp.Common.dll
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.pdb
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\ref\GastroApp.Common.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Common\obj\Debug\net8.0\GastroApp.Common.sourcelink.json

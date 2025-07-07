@@ -180,31 +180,34 @@
     }
 
     // Registration
-    fetch(`${apiBase}/customers/register`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(dto)
-    })
-        .then(r => {
-   
-            if (r.status === 409)
-                throw new Error("This e-mail is already registered.");
-            if (!r.ok) 
-                throw new Error("Registration failed");
-            
-            return r.headers.get("Location").split("/").pop();
+    document.getElementById("register-btn").addEventListener("click", () => {
+        const fd = new FormData(document.getElementById("register-form"));
+        const dto = Object.fromEntries(fd.entries());
+        fetch(`${apiBase}/customers/register`, {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(dto)
         })
-        .then(id => {
-            
-            currentCustomer = { id, firstName: dto.firstName, loyaltyPoints: 0 };
-            localStorage.setItem("customer", JSON.stringify(currentCustomer));
-            bootstrap.Modal.getInstance(document.getElementById("registerModal")).hide();
-            updateAuthUI();
-            renderOrder();
-            alert("Registered successfully!");
-        })
-        .catch(err => alert(err.message));
+            .then(r => {
 
+                if (r.status === 409)
+                    throw new Error("This e-mail is already registered.");
+                if (!r.ok)
+                    throw new Error("Registration failed");
+
+                return r.headers.get("Location").split("/").pop();
+            })
+            .then(id => {
+
+                currentCustomer = {id, firstName: dto.firstName, loyaltyPoints: 0};
+                localStorage.setItem("customer", JSON.stringify(currentCustomer));
+                bootstrap.Modal.getInstance(document.getElementById("registerModal")).hide();
+                updateAuthUI();
+                renderOrder();
+                alert("Registered successfully!");
+            })
+            .catch(err => alert(err.message));
+    });
     
     // Login
     document.getElementById("login-btn").addEventListener("click", () => {

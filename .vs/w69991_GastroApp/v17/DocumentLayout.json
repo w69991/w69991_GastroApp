@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Projekt\\w69991_GastroApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Adam Or\u0142owski\\Desktop\\w69991_GastroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Projekt\\w69991_GastroApp\\GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{436201F8-D703-4C9B-824C-CED6B8387AFA}|GastroApp.Infrastructure\\GastroApp.Infrastructure.csproj|c:\\users\\adam or\u0142owski\\desktop\\w69991_gastroapp\\gastroapp.infrastructure\\migrations\\20250706145814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436201F8-D703-4C9B-824C-CED6B8387AFA}|GastroApp.Infrastructure\\GastroApp.Infrastructure.csproj|solutionrelative:gastroapp.infrastructure\\migrations\\20250706145814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20250706145814_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Projects\\Projekt\\w69991_GastroApp\\GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Adam Or\u0142owski\\Desktop\\w69991_GastroApp\\GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
               "RelativeDocumentMoniker": "GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
-              "ToolTip": "C:\\Projects\\Projekt\\w69991_GastroApp\\GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Adam Or\u0142owski\\Desktop\\w69991_GastroApp\\GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
               "RelativeToolTip": "GastroApp.Infrastructure\\Migrations\\20250706145814_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -36,3 +36,4 @@ C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\De
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.pdb
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\ref\GastroApp.Infrastructure.dll
+C:\Users\Adam Orłowski\Desktop\w69991_GastroApp\GastroApp.Infrastructure\obj\Debug\net8.0\GastroApp.Infrastructure.sourcelink.json
